@@ -1,1 +1,3 @@
 this is new adition
+bug fixing
+resolve the bugs 
